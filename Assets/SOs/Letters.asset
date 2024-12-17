@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Letters
+  m_EditorClassIdentifier: Assembly-CSharp:sample.SO:CellKit
+  _cellData:
+  - _sprite: {fileID: 4963718625464178563, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: A
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 7783457984840754399, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: B
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 3234300448368640894, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: C
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 7911670913450602933, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: D
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 4652326554734856401, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: E
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -6426668015567183463, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: F
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 216406037199867053, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: G
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -8235857483100294123, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: H
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -3541686595128163680, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: I
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -2756605603065543306, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: J
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -1127063002332224934, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: K
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -5901097786099144959, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: L
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 3295844289267200183, guid: 23d5fcff8aaf61a46a6d13673c684a56, type: 3}
+    _value: M
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 7112752472869403061, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: N
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 5433449995169814141, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: O
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -4252152113809563852, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: P
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -4447791616812998045, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: Q
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -6342808464625005154, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: R
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 8083504644574312765, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: S
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -4461999128152558772, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: T
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 3270655726746431581, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: U
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -2983290644488427326, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: V
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -9165466868132007793, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: W
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 4461586319009975920, guid: 4fc3a40c043ffa9498ec42c47b52afe5, type: 3}
+    _value: X
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: -5001085640463096552, guid: da7fc7adcf6308d4e8f007a6c275611f, type: 3}
+    _value: Y
+    _shouldRotate: 0
+    _rotationAngle: 0
+  - _sprite: {fileID: 3539555106843919260, guid: da7fc7adcf6308d4e8f007a6c275611f, type: 3}
+    _value: Z
+    _shouldRotate: 0
+    _rotationAngle: 0
